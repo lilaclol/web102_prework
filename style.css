@@ -23,6 +23,21 @@ body {
     display: flex;
 }
 
+/* Hover effects */
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+.stats-containers {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
