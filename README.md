@@ -1,6 +1,6 @@
 # WEB102 Prework - *Game Crowdfunding*
 
-Submitted by: **Yanlin Liu**
+Submitted by: ****
 
 **Game Crowdfundin** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/lilaclol/web102_prework/blob/main/assets/Game_Crowdfunding.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with the Screenshot toolbar.  
